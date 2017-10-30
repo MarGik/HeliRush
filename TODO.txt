@@ -1,0 +1,6 @@
+
+de incercat de schimbat in image.drow
+verificare pe 2 linii
+recriere verificare verifyPosition
+multi Enemies by timing
+
